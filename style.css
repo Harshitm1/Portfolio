@@ -33,6 +33,7 @@ header{
     font-weight: 600;
     text-wrap: nowrap;
     transition: 0.3s ease-in-out;
+    display: inline;
 }
 .logo:hover{
     transform: scale(1.1);
